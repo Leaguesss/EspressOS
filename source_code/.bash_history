@@ -1,0 +1,10 @@
+javac Test.java 
+java Test
+javac Test.java 
+java Test
+javac Test.java 
+java Test
+javac Test.java 
+java Test
+javac Test.java 
+java Test
