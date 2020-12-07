@@ -25,3 +25,6 @@ Run the DirectTest test using fllowing command
 javac -cp .:junit-4.12.jar:hamcrest-core-1.3.jar DirectTest.java
 java -cp .:junit-4.12.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore DirectTest
 ```
+
+pls check specif for more details
+更多细节请见说明书
